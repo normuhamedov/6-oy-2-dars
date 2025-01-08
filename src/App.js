@@ -89,7 +89,7 @@ const App = () => {
       </ul>
 
       {tasks.length === 0 && (
-        <p className="mt-4 text-gray-500">No tasks available. Add a new task!</p>
+        <p className="mt-4 text-gray-500">Please add text</p>
       )}
     </div>
   );
